@@ -13,3 +13,7 @@ Atlassian. "You Waste a Lot of Time at Work." Atlassian.com. Available at atlass
 Peng, Sida, et al. "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot." *arXiv preprint*, arXiv:2302.06590 (2023).
 
 Chui, Michael, et al. "The Economic Potential of Generative AI: The Next Productivity Frontier." McKinsey Global Institute, June 2023.
+
+## Chapter 3: The Assignee Is Dead
+
+Hopp, Wallace J., and Mark L. Spearman. *Factory Physics: Foundations of Manufacturing Management*. 2nd ed. Boston: Irwin/McGraw-Hill, 2000.
