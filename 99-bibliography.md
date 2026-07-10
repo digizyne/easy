@@ -17,3 +17,9 @@ Chui, Michael, et al. "The Economic Potential of Generative AI: The Next Product
 ## Chapter 3: The Assignee Is Dead
 
 Hopp, Wallace J., and Mark L. Spearman. *Factory Physics: Foundations of Manufacturing Management*. 2nd ed. Boston: Irwin/McGraw-Hill, 2000.
+
+## Chapter 4: The Estimate Is a Lie (And Always Was)
+
+McConnell, Steve. *Software Estimation: Demystifying the Black Art*. Redmond, WA: Microsoft Press, 2006.
+
+Tversky, Amos, and Daniel Kahneman. "Judgment Under Uncertainty: Heuristics and Biases." *Science* 185, no. 4157 (1974): 1124-1131.
