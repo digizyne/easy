@@ -35,6 +35,8 @@ The Agile Manifesto was written in 2001. Jira launched in 2002. The Scrum practi
 
 The chapters that follow examine what happens to specific Agile practices when you hold them up against this new reality. Some dissolve immediately under scrutiny. Others reveal themselves to be answers to problems that AI has quietly solved. A few survive, and those survivors form the foundation of something leaner and more honest about how software is actually built today.
 
+---
+
 [^1]: The Standish Group, *CHAOS Report* (West Yarmouth, MA: The Standish Group International, 1994).
 
 [^2]: GitLab, *2021 Global DevSecOps Survey* (San Francisco: GitLab Inc., 2021). Available at gitlab.com/developer-survey.
