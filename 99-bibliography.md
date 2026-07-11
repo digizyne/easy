@@ -27,3 +27,9 @@ Tversky, Amos, and Daniel Kahneman. "Judgment Under Uncertainty: Heuristics and 
 ## Chapter 5: The Velocity Theater
 
 Goodhart, Charles. "Problems of Monetary Management: The U.K. Experience." In *Papers in Monetary Economics*, vol. 1. Sydney: Reserve Bank of Australia, 1975.
+
+## Chapter 6: The Meeting That Replaced the Work
+
+Rogelberg, Steven G., Cliff Scott, and John Kello. "The Science and Fiction of Meetings." *MIT Sloan Management Review* 48, no. 2 (2007): 18-21.
+
+Derby, Esther, and Diana Larsen. *Agile Retrospectives: Making Good Teams Great*. Dallas: Pragmatic Bookshelf, 2006.
