@@ -23,3 +23,7 @@ Hopp, Wallace J., and Mark L. Spearman. *Factory Physics: Foundations of Manufac
 McConnell, Steve. *Software Estimation: Demystifying the Black Art*. Redmond, WA: Microsoft Press, 2006.
 
 Tversky, Amos, and Daniel Kahneman. "Judgment Under Uncertainty: Heuristics and Biases." *Science* 185, no. 4157 (1974): 1124-1131.
+
+## Chapter 5: The Velocity Theater
+
+Goodhart, Charles. "Problems of Monetary Management: The U.K. Experience." In *Papers in Monetary Economics*, vol. 1. Sydney: Reserve Bank of Australia, 1975.
