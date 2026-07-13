@@ -33,3 +33,7 @@ Goodhart, Charles. "Problems of Monetary Management: The U.K. Experience." In *P
 Rogelberg, Steven G., Cliff Scott, and John Kello. "The Science and Fiction of Meetings." *MIT Sloan Management Review* 48, no. 2 (2007): 18-21.
 
 Derby, Esther, and Diana Larsen. *Agile Retrospectives: Making Good Teams Great*. Dallas: Pragmatic Bookshelf, 2006.
+
+## Chapter 7: The Dashboard Became the Product
+
+Cockburn, Alistair. *Agile Software Development: The Cooperative Game*. 2nd ed. Boston: Addison-Wesley, 2006.
