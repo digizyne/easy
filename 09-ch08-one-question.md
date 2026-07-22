@@ -8,9 +8,13 @@ Part One was a long argument for a short conclusion. Strip away the story points
 
 This is the foundation of EASY. Not a framework, not a process, not a set of ceremonies. A question. Everything else that follows in this part of the book is an explanation of how to organize work around that question as efficiently as possible, but the question itself is the whole of it. If you understand why this question is the right one, you understand the methodology.
 
+*Why This Question Survives*
+
 **The question survives every change in how work gets done because it is not about how the work gets done.** It is about whether the desired state of the world has been achieved. A feature either exists in the product or it does not. A bug is fixed or it is not. Documentation is written or it is not. These are binary facts about the world, and they remain binary regardless of whether a human wrote the code, an AI wrote it, a team of five wrote it together, or a single developer wrote it alone at two in the morning. The mechanism of production is irrelevant to the answer.
 
 This is precisely why the question survives the AI transition when everything else does not. Story points measure human effort. Velocity measures human throughput. Capacity planning models human availability. Assignees track human labor. All of these practices are about the mechanism of production, and the mechanism has changed in ways that make those practices unreliable. But "is it done" is indifferent to mechanism. It was a useful question before Agile existed, and it will be a useful question for whatever comes after AI-assisted development. It is the one constant in the system.
+
+*What AI Cannot Answer*
 
 There is a second reason this question is the right foundation, and it is less obvious but equally important: it is a question that AI cannot answer for you. This matters more than it might initially seem.
 

@@ -11,15 +11,28 @@ In smaller organizations this is a tax on a developer or a project manager. In l
 
 This is a signal worth paying attention to. When a tracking system requires dedicated human effort to maintain, it has crossed a line. It is no longer serving the work. It has become work of its own.
 
-**The tracking apparatus that modern Agile practice has produced is extensive.** A typical Jira implementation at a mid-sized company includes sprint boards, backlog views, roadmap timelines, velocity charts, burndown charts, burnup charts, cumulative flow diagrams, cycle time reports, and lead time reports, plus whatever custom dashboards the engineering leadership has requested to give stakeholders a view of progress. Each of these views is only as useful as the underlying data is accurate, and the underlying data is only as accurate as the developers are diligent about updating their tickets in real time, which they frequently are not, because updating tickets takes time away from the work the tickets are supposed to represent.
+**The tracking apparatus that modern Agile practice has produced is extensive.** A typical Jira implementation includes:
+
+- Sprint boards and backlog views
+- Roadmap timelines
+- Velocity, burndown, and burnup charts
+- Cumulative flow diagrams
+- Cycle time and lead time reports
+- Custom stakeholder dashboards
+
+Each of these views is only as useful as the underlying data is accurate, and the underlying data is only as accurate as the developers are diligent about updating their tickets in real time, which they frequently are not, because updating tickets takes time away from the work the tickets are supposed to represent.
 
 The result is a system that is chronically slightly wrong. Tickets that are done in practice sit in "In Progress" because the developer forgot to move them. Work that was abandoned sits in the backlog because no one wants to explain why it was dropped. Estimates get updated retroactively to preserve the appearance of accurate planning. The dashboard shows a version of reality that is close enough to pass inspection but different enough from the truth to make it unreliable as a decision-making tool. Managers who base decisions on this data are working with a representation of the work that is filtered through the gaps, errors, and social pressures of the people maintaining the system.
 
 There is a concept in lean manufacturing called an information radiator: a display of the current state of work that is visible to anyone who walks past it, updated automatically by the work process itself rather than by manual entry.[^1] The Kanban board, in its original form at Toyota, was an information radiator. Cards moved physically when parts moved physically. The board reflected reality because moving the card and moving the part were the same action. What Jira and its equivalents have created is something different: an information system that requires separate manual maintenance, which means the information it contains is always a step behind reality and subject to the accuracy and motivation of the people updating it.
 
+*The Information Gap*
+
 This gap between the tracking system and reality has always existed in digital project management. AI makes it wider.
 
 **When a developer using an AI coding assistant can move from reading a ticket to shipping the completed work in under two hours, the ticket lifecycle that the system was designed to track becomes almost too brief to track at all.** The assumption baked into Jira's workflow is that tasks exist in distinct states for meaningful periods of time: the ticket is in the backlog for days or weeks, then it is in progress for days, then it is in review, then it is done. Each state transition is worth recording because it represents a meaningful phase of work with its own time signature. When AI compresses the "in progress" phase from days to hours, and sometimes from hours to minutes, the overhead of moving a ticket through multiple states becomes larger relative to the actual work than it has ever been. Teams that are moving fast with AI assistance will find themselves choosing between keeping the board accurate, which requires constant small interruptions to update ticket states, and keeping their momentum, which means letting the board fall behind.
+
+*EASY's Answer*
 
 EASY resolves this not by making the tracking easier but by reducing what there is to track. A card moves exactly once: from Not Done to Done. There are no intermediate states because the argument for intermediate states depends on tasks existing in those states for long enough to make the information useful, and that argument weakens as AI accelerates the pace of completion. The maintenance cost of an EASY board is as close to zero as a project management system can get. Moving a card to Done takes three seconds. No one needs to maintain the backlog's internal consistency, because the backlog has no internal structure beyond order. No one needs to chase developers for status updates, because the status is binary and the developer updates it when the work is actually complete.
 

@@ -10,13 +10,19 @@ AI has split those two functions apart in a way that the assignee field cannot h
 
 This is not a problem unique to junior developers or to trivial tasks. Senior engineers at the most sophisticated software companies in the world are using AI tools to write code they could not have written as quickly, or sometimes at all, without AI assistance. The question of who wrote the code is increasingly not a question that has a clean human answer, and a ticketing system designed around the assumption that it does will produce misleading data.
 
+*The Dedication Queue*
+
 **The deeper issue is what assigning work actually does to the flow of that work.** When a ticket is assigned to a specific person, it enters their personal queue. It waits for them, specifically, regardless of whether other team members are available and capable. If that person is overloaded, the ticket waits. If they're in meetings, the ticket waits. If they're uncertain about the scope and need to ask a question, the ticket waits. The assignment creates a dependency not on the availability of capacity in general, but on the availability of one particular person.
 
 Operations researchers call this a dedication queue, and it is well understood in systems design that dedication queues are less efficient than shared queues when work items are roughly interchangeable.[^1] A bank that assigns each customer to a specific teller will have longer average wait times than a bank with a single line feeding any available teller, even if the two banks have identical total capacity. The same principle applies to software work. When tasks are assigned to individuals rather than pulled from a shared pool, the system's throughput is limited by the availability of specific people rather than the availability of the team as a whole.
 
+*What EASY Does Instead*
+
 EASY's answer to this is not a new coordination mechanism. It is the removal of the mechanism entirely. In a system with no assignees, work is pulled by whoever is available and capable, in the same way that a team of surgeons pulls the next patient from the surgical schedule rather than waiting for a specific surgeon to become free. The work moves when capacity is available. No ticket sits idle because its named owner is in a meeting.
 
 The accountability that the assignee field was supposedly providing does not disappear when you remove it. It transfers to the team as a whole, which is where it was always most honestly located anyway. A team that ships features is accountable for those features, regardless of which team member's name is on which ticket. A team that doesn't ship is failing collectively, and pointing to individual ticket owners rarely explains why. **The assignee field gives accountability the appearance of precision while distributing its actual weight unevenly and inefficiently.**
+
+*Common Objections*
 
 There are three questions worth addressing directly, because they come up in almost every conversation about removing assignees: 
 
